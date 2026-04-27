@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+scikit-learn
+shap
+pandas
+streamlit
+numpy
+joblib
+paho-mqtt
+twilio
+tensorflow
